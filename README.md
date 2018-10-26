@@ -1,0 +1,2 @@
+# snapp-free
+snapfree
